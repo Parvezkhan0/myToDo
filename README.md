@@ -24,8 +24,8 @@ Follow these steps to set up and run the project locally:
 ### Backend (Django)
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Parvezkhan0/myToDo.git
+   cd myToDo
    ```
 2. Navigate to the backend directory and set up the virtual environment:
    ```bash
