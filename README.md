@@ -4,7 +4,7 @@ A **Task Manager App** built with **React.js** (frontend) and **Django** (backen
 
 ## 🚀 Features  
 - View tasks (filter by completed and incomplete).
-- Add new tasks.
+- Add new tasks. 
 - Edit existing tasks.
 - Delete tasks.
 
