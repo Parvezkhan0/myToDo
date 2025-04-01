@@ -9,7 +9,7 @@ A **Task Manager App** built with **React.js** (frontend) and **Django** (backen
 - Delete tasks.
 
 ## 🛠️ Technologies Used
-- **Frontend**: React.js
+- **Frontend**: React.js   
   - Reactstrap for UI components.
   - Axios for HTTP requests.
 - **Backend**: Django REST Framework
