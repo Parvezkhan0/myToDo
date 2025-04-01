@@ -2,7 +2,7 @@
 
 A **Task Manager App** built with **React.js** (frontend) and **Django** (backend). This app allows users to manage tasks with functionalities like adding, editing, deleting, and filtering tasks based on their completion status. Axios is used for seamless communication between the frontend and backend.
 
-## 🚀 Features
+## 🚀 Features 
 - View tasks (filter by completed and incomplete).
 - Add new tasks.
 - Edit existing tasks.
