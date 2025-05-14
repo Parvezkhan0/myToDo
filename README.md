@@ -16,7 +16,7 @@ A **Task Manager App** built with **React.js** (frontend) and **Django** (backen
   - RESTful API to handle task operations.
 - **Database**: SQLite (default Django database).
 
-## 🖥️ Setup Instructions
+## 🖥️ Setup Instruction
 Follow these steps to set up and run the project locally:
 
 ### Backend (Django)
@@ -60,4 +60,3 @@ Follow these steps to set up and run the project locally:
 
 ### API Integration
 The frontend communicates with the backend using Axios. Ensure both servers are running to enable seamless data exchange.
-
